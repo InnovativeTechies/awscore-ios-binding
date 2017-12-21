@@ -9,7 +9,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>AWS Core for iOS</title>
         <summary>Xamarin.iOS binding library - AWS Core</summary>
-        <description>Xamarin.Android binding library - AWS Core</description>
+        <description>Xamarin.iOS binding library - AWS Core</description>
         <releaseNotes>AWS Core v2.6.8</releaseNotes>
         <iconUrl>https://avatars0.githubusercontent.com/u/2232217</iconUrl>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
