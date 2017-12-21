@@ -1,6 +1,6 @@
 <img src="./art/repo_header.png" alt="AWS Core for Xamarin.iOS" width="728" />
 
-# AWS Core for Xamarin.Android
+# AWS Core for Xamarin.iOS
 A Xamarin.iOS binding library for [AWS Core](https://github.com/aws/aws-sdk-ios/tree/master/AWSCore) library.
 
 ## About
